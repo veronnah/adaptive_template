@@ -550,7 +550,7 @@ header{
 }
 .news_blog{
 	max-width: 260px;
-	width: 100%;
+	/*width: 100%;*/
 }
 .news_images{
 	position: relative;
